@@ -63,6 +63,17 @@ Com base nas pontuações das métricas, foram definidos critérios para avaliar
 | **Inaceitável**              | Mais de 30% das métricas com pontuação "Insatisfatória". |
 
 
+----
+
+
+# Tabela de Contribuição
+
+| Matrícula | Nome              | % de Contribuição |
+|-----------|-------------------|-------------------|
+| 202045965 | Augusto Duarte    |  50%              |
+| 202017521 | Algusto Rodrigues |                   |
+
+
 
 
 ## Histórico de Versões
