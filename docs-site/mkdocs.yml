@@ -1,0 +1,42 @@
+repo_url: https://github.com/Augcamp/FCTE-Qualidade-de-Software-1
+repo_name: FCTE-Qualidade-de-Software-1
+site_name: Grupo Roberta Williams - Turma 2 (2025.1)
+site_description: Documentação do projeto da dupla do grupo Roberta Williams de Qualidade de Software (2025.1), Turma 2
+nav:
+  - Home: index.md
+  - Fase 1 - Propósito de Avalição: fase1.md
+  - Fase 2 - Especificação da Avaliação: fase2.md
+  - Tabela de Contribuição: tabelaDeContribuicao.md
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+      primary: orange
+      accent: deep orange
+
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: orange
+      accent: deep orange
+
+    - scheme: high-contrast
+      primary: orange
+      accent: yellow
+      toggle:
+        icon: material/weather-cloudy-alert
+        name: Switch to high contrast
+  logo: assets/img/logo.png
+  extra_css: [stylesheets/extra.css]
+
+markdown_extensions:
+  - attr_list

@@ -12,6 +12,16 @@ Sua abordagem centrada no usuário, sensível ao design e orientada à experiên
 
 ---
 
+### Figura 1 – Roberta Lynn Williams
+
+<div style="text-align: center;">
+  <img src="assets/img/robertaWilliams_Pic.jpg" alt="Roberta Williams" width="300px"/>
+  <p><em>Roberta Williams, pioneira dos jogos de aventura gráficos interativos.</em></p>
+</div>
+
+
+---
+
 ## Equipe
 
 | [![Augcamp](https://github.com/Augcamp.png?size=100)](https://github.com/Augcamp) | [![Algusto-RC](https://github.com/Algusto-RC.png?size=100)](https://github.com/Algusto-RC) |
@@ -23,7 +33,11 @@ Sua abordagem centrada no usuário, sensível ao design e orientada à experiên
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor             | Revisor                |
-|--------|------------|-------------------|-------------------|------------------------|
-| 1.0    | 11/07/2025 | Criação do README | Algusto Rodrigues | Augusto Duarte         |
+| Versão | Data       | Descrição                 | Autor             | Revisor                |
+|--------|------------|---------------------------|-------------------|------------------------|
+| 1.0    | 11/07/2025 | Criação da página inicial | Algusto Rodrigues | Augusto Duarte         |
+
 ---
+
+> _“Do. Or do not. There is no try.”_ — **Master Yoda**
+
