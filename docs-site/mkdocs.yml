@@ -48,7 +48,3 @@ theme:
 
 markdown_extensions:
   - attr_list
-
-plugins:
-  - search
-  - mermaid2
