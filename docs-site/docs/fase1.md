@@ -1,4 +1,4 @@
-# Fase 1 – Estabelecer Requisitos de Avaliação
+# Fase 1: Estabelecer Requisitos de Avaliação
 
 ## Planejamento de Qualidade para o sistema AgroMart
 

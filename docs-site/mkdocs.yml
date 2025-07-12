@@ -5,14 +5,14 @@ site_description: Documentação do projeto da dupla do grupo Roberta Williams d
 
 nav:
   - Home: index.md
-  - Fase 1 - Propósito de Avalição: fase1.md
-  - Fase 2 - Especificação da Avaliação:
-      - Abordagem GQM: fase2/gqm.md
-      - Abstraction Sheets: fase2/sheet.md
-  - Fase 3 - Planejamento da Avaliação:
-      - Plano de Avaliação: fase3/plano.md
-      - Cronograma: fase3/cronograma.md
-  - Tabela de Contribuição: tabelaDeContribuicao.md
+  - "Fase 1: Propósito de Avalição": fase1.md
+  - "Fase 2: Especificação da Avaliação":
+      - "Abordagem GQM": fase2/gqm.md
+      - "Abstraction Sheets": fase2/sheet.md
+  - "Fase 3: Planejamento da Avaliação":
+      - "Plano de Avaliação": fase3/plano.md
+      - "Cronograma": fase3/cronograma.md
+  - "Tabela de Contribuição": tabelaDeContribuicao.md
 
 theme:
   name: material
