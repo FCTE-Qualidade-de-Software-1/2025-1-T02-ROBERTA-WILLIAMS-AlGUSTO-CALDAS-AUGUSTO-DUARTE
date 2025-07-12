@@ -1,5 +1,18 @@
 # Fase 2: Especificação da Avaliação
 
+# Aplicação da Metodologia GQM
+
+A dupla seguiu as fases da metodologia **GQM (Goal-Question-Metric)** para estruturar a avaliação da plataforma AgroMart. 
+
+Foram definidos os objetivos de medição para usabilidade, com ênfase em acessibilidade. Em seguida, revisou-se o contexto do sistema e realizaram-se discussões em dupla para a elaboração dos abstraction sheets, o que permitiu a definição colaborativa de perguntas e hipóteses alinhadas aos objetivos propostos.
+
+As questões levantadas foram refinadas e vinculadas a métricas específicas, que passaram por revisão quanto à consistência e completude. Por fim, foi elaborado o plano GQM, consolidando todos os elementos definidos.
+
+<center><p>Figura 1 - Definição de procedimentos GQM</p></center>
+
+![Definição de procedimentos GQM](../assets/img/GQM_diagrama.png)
+
+
 ## Plano de Medição
 
 ### Objetivo de Medição 1 – Verificar a Usabilidade com Foco em Acessibilidade no AgroMart

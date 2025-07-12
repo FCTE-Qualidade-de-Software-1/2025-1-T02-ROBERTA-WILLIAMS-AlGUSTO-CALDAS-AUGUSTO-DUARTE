@@ -10,6 +10,7 @@ nav:
       - "Abordagem GQM": fase2/gqm.md
       - "Abstraction Sheets": fase2/sheet.md
   - "Fase 3: Planejamento da Avaliação":
+      - "Q-Rapids": fase3/qrapids.md
       - "Plano de Avaliação": fase3/plano.md
       - "Cronograma": fase3/cronograma.md
   - "Tabela de Contribuição": tabelaDeContribuicao.md
@@ -47,3 +48,7 @@ theme:
 
 markdown_extensions:
   - attr_list
+
+plugins:
+  - search
+  - mermaid2
