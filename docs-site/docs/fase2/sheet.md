@@ -31,20 +31,9 @@
 | H4: 100% dos feedbacks visuais importantes (cores, ícones) são reforçados por textos ou sinais sonoros descritivos. | Usuários com deficiência visual ou daltonismo podem não perceber informações importantes, impactando a experiência. |
 
 
----
-
-# Tabela de Contribuição
-
-| Matrícula | Nome              | % de Contribuição |
-|-----------|-------------------|-------------------|
-| 202045965 | Augusto Duarte    |  50%              |
-| 202017521 | Algusto Rodrigues |                   |
-
-
-
 ----
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                   | Autor                     | Revisor                |
 |--------|------------|---------------------------------------------|---------------------------|------------------------|
-| 1.0    | 11/07/2025 | Desenvolvimento Abstraction Sheet           | Augusto Duarte            |       |
+| 1.0    | 11/07/2025 | Desenvolvimento Abstraction Sheet           | Augusto Duarte            | Algusto Rodrigues      |

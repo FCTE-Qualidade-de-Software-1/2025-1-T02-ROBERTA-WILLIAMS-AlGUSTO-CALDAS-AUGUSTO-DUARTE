@@ -1,4 +1,4 @@
-# Fase 3 – Projetar a Avaliação (Plano)
+# Fase 3 – Plano de Avaliação
 
 ## Introdução
 
@@ -66,16 +66,9 @@ Este plano de avaliação estrutura a execução de testes focados em acessibili
 
 Os dados coletados nortearão recomendações de melhorias futuras e contribuirão para um sistema mais utilizável por todos os perfis de usuários.
 
-## Tabela de Contribuição
-
-| Matrícula | Nome                     | % de Contribuição |
-| --------- | ------------------------ | ----------------- |
-| 202017521 | Algusto Rodrigues Caldas | 50%               |
-| 202045965 | Augusto Duarte           | 50%               |
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                         | Autor             | Revisor           |
 | ------ | ---------- | --------------------------------- | ----------------- | ----------------- |
 | 1.0    | 12/07/2025 | Elaboração do Plano de Avaliação  | Algusto Rodrigues | Augusto Duarte    |
-| 1.1    | 13/07/2025 | Inclusão do cronograma e recursos | Augusto Duarte    | Algusto Rodrigues |
