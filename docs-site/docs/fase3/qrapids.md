@@ -27,6 +27,6 @@ Portanto, após o estudo sobre Q-Rapids e a discussão interna, a dupla decidiu 
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                   | Autor                     | Revisor                |
-|--------|------------|---------------------------------------------|---------------------------|------------------------|
-| 1.0    | 11/07/2025 | Implementação do framework Q-Rapids         | Algusto Rodrigues         | Augusto Duarte         |
+| Versão | Data       | Descrição                           | Autor             | Revisor        |
+|--------|------------|-------------------------------------|-------------------|----------------|
+| 1.0    | 11/07/2025 | Implementação do framework Q-Rapids | Algusto Rodrigues | Augusto Duarte |

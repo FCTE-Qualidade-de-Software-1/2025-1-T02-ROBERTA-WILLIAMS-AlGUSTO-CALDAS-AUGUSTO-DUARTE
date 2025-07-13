@@ -69,6 +69,6 @@ Os dados coletados nortearão recomendações de melhorias futuras e contribuir�
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                         | Autor             | Revisor           |
-| ------ | ---------- | --------------------------------- | ----------------- | ----------------- |
-| 1.0    | 12/07/2025 | Elaboração do Plano de Avaliação  | Algusto Rodrigues | Augusto Duarte    |
+| Versão | Data       | Descrição                         | Autor             | Revisor        |
+|--------|------------|-----------------------------------|-------------------|----------------|
+| 1.0    | 12/07/2025 | Elaboração do Plano de Avaliação  | Algusto Rodrigues | Augusto Duarte |
