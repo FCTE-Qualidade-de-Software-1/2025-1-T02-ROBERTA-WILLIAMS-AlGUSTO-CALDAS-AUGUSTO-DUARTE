@@ -1,11 +1,8 @@
-# Fase 1: Estabelecer Requisitos de Avaliação
+# Estabelecer Requisitos de Avaliação
 
 ## Planejamento de Qualidade para o sistema AgroMart
 
-
-
 ## Aplicação Escolhida
-
 #### Por que o AgroMart?
 
 O **AgroMart** foi escolhido como objeto de avaliação por ser uma aplicação voltada ao fortalecimento da agricultura familiar e da conexão direta entre pequenos produtores e consumidores. A proposta do sistema está alinhada com diversos Objetivos de Desenvolvimento Sustentável (ODS), especialmente os relacionados à **agricultura sustentável**, **inclusão econômica** e **inovação tecnológica acessível**.
@@ -73,22 +70,9 @@ O AgroMart tem como foco:
 
 ---
 
-## Q-Rapids – Integração com o Plano de Medição
-
-O ciclo Q-Rapids, ou ciclo de melhoria de qualidade de ciclo rápido, é uma metodologia ágil que visa otimizar processos e sistemas através de pequenas mudanças implementadas e testadas em curtos períodos.
-
-### Figura XX – Diagrama do ciclo Q-Rapids
-
-![Ciclo Q-Rapids](assets/img/q_rapids.png)
-*<p align="center"><em>Uma abordagem eficaz para garantir a melhoria contínua de produtos e processos.</em></p>*
-
----
-
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                   | Autor                     | Revisor                |
 |--------|------------|---------------------------------------------|---------------------------|------------------------|
 | 1.0    | 11/07/2025 | Elaboração do propósito de avaliação        | Augusto Duarte            | Algusto Rodrigues      |
-| 1.1    | 11/07/2025 | Correção dos criterios e introdução Q-Rapis | Algusto Rodrigues         | Augusto Duarte         |
-
----
+| 1.1    | 11/07/2025 | Ajuste nos critérios da norma ISO/IEC 25010 | Algusto Rodrigues         | Augusto Duarte         |

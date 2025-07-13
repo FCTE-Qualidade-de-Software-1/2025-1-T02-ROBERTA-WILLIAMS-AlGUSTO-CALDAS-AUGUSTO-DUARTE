@@ -2,8 +2,8 @@
 
 | Matrícula | Nome              | Atividade Realizada                                          | % de Contribuição |
 |-----------|-------------------|--------------------------------------------------------------|-------------------|
-| 202045965 | Augusto Duarte    | - MKdocs <br> - Propósito de Avaliação <br> - Especificação  | 50%               |
-| 202017521 | Algusto Rodrigues | - README <br> - Página Inicial <br> - Projeto de Avaliação   | 50%               |
+| 202045965 | Augusto Duarte    | - Configuração do MKdocs <br> - Elaboração do Propósito de Avaliação <br> - Elaboração da Especificação da Avaliação <br> - Contribuição na Execução da Avaliação  | 50%               |
+| 202017521 | Algusto Rodrigues | - Elaboração do README <br> - Elaboração da Página Inicial <br> - Ajuste  no Propósito de Avaliação <br> - Adição na Especificação da Avaliação <br> - Elaboração do Planejamento da Avaliação <br> - Contribuição na Execução da Avaliação   | 50%               |
 
 
 ---
@@ -14,13 +14,11 @@ Caso fique alguma dúvida em relação ao histórico de commits, este repositór
 
 Por esse motivo, o histórico pode parecer incompleto ou desconexo em alguns pontos. 
 
+---
 
+## Histórico de Versões
 
-
-
-
-## Histórico de Versão
-
-|    Data    | Versão |           Descrição           |                        Autor(es)                        | Data de revisão |                       Revisor(es)                       |
-| :--------: | :----: | :---------------------------: | :-----------------------------------------------------: | :-------------: | :-----------------------------------------------------: |
-| 11/07/2025 | `1.0`  |  Versão inicial de documento  | [Algusto Rodrigues](https://github.com/Algusto-RC)      |   13/07/2025    | [Augusto Duarte](https://github.com/Augcamp)            |
+| Versão | Data       | Descrição                               | Autor             | Revisor           |
+|--------|------------|-----------------------------------------|-------------------|-------------------|
+| 1.0    | 11/07/2025 | Criação da Tabela de Contribuição       | Algusto Rodrigues | Augusto Duarte    |
+| 1.1    | 11/07/2025 | Explicação sobre o histórico de commits | Augusto Duarte    | Algusto Rodrigues |

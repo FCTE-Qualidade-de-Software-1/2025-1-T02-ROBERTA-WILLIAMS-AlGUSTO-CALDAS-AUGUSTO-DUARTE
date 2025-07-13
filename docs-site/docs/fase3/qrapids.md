@@ -17,6 +17,16 @@ O Q-Rapids (Quality-Aware Rapid Software Development) é um framework voltado pa
 |                       | Feedback do usuário | Avaliações fornecidas pelos usuários sobre a utilidade da aplicação |
 
 
-## Plano para Obter as Métricas do Objetivo de Usabilidade usando Q-Rapids
+## Plano para Obter as Métricas do Objetivo de Acessibilidade usando Q-Rapids
 
-A usabilidade se refere a facilidade com que usuários podem usar um sistema ou aplicativo de software. A usabilidade também é um dos objetivos de medição desse trabalho. Portanto, depois do estudo sobre Q-Rapids e discussão interna, a dupla decidiu não alterar as questões e as métricas relacionadas a usabilidade porque vamos usar [INSERIR O QUE SERÁ USADO] (um dos tipos de fontes usada pelo Q-Rapids) para fazer a medição da questão x de usabilidade.
+A usabilidade se refere à facilidade com que usuários podem utilizar um sistema ou aplicativo de software. Isso engloba a eficiência, eficácia e satisfação na interação com a ferramenta. Já a acessibilidade se refere à capacidade de um sistema ou aplicativo ser utilizado por todas as pessoas, independentemente de suas habilidades ou deficiências. A acessibilidade é o principal foco de medição deste trabalho.
+
+Portanto, após o estudo sobre Q-Rapids e a discussão interna, a dupla decidiu não alterar as questões e as métricas definidas ma fase 2. Isso se deve ao fato de que utilizaremos uma **aplicação em execução** — um dos tipos de fontes de dados usadas pelo **Q-Rapids** — para realizar a validação das questões de usabilidade.
+
+---
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                   | Autor                     | Revisor                |
+|--------|------------|---------------------------------------------|---------------------------|------------------------|
+| 1.0    | 11/07/2025 | Implementação do framework Q-Rapids         | Algusto Rodrigues         | Augusto Duarte         |

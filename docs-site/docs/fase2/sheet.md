@@ -1,4 +1,4 @@
-# Abstraction Sheet – Objetivo de Medição 1: Usabilidade com Foco em Acessibilidade
+# Abstraction Sheet – Objetivo de Medição: Usabilidade com Foco em Acessibilidade
 
 ## Definições de Medição
 
@@ -30,8 +30,8 @@
 | H3: Mais de 95% dos elementos interativos (botões, ícones e imagens) possuem descrições textuais (alt text) apropriadas. | A ausência de descrições textuais claras pode aumentar o tempo para aprendizado e causar confusão na navegação assistida. |
 | H4: 100% dos feedbacks visuais importantes (cores, ícones) são reforçados por textos ou sinais sonoros descritivos. | Usuários com deficiência visual ou daltonismo podem não perceber informações importantes, impactando a experiência. |
 
+---
 
-----
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                                   | Autor                     | Revisor                |

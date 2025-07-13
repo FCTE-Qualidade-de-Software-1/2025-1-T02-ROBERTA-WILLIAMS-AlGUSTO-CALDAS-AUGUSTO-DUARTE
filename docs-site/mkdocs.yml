@@ -4,16 +4,16 @@ site_name: Grupo Roberta Williams - Turma 2 (2025.1)
 site_description: Documentação do projeto da dupla do grupo Roberta Williams de Qualidade de Software (2025.1), Turma 2
 
 nav:
-  - Home: index.md
-  - "Fase 1: Propósito de Avalição": fase1.md
-  - "Fase 2: Especificação da Avaliação":
+  - Início: index.md
+  - "Propósito de Avalição": fase1/propositoDeAvaliacao.md
+  - "Especificação da Avaliação":
       - "Abordagem GQM": fase2/gqm.md
       - "Abstraction Sheets": fase2/sheet.md
-  - "Fase 3: Planejamento da Avaliação":
+  - "Planejamento da Avaliação":
       - "Q-Rapids": fase3/qrapids.md
       - "Plano de Avaliação": fase3/plano.md
       - "Cronograma": fase3/cronograma.md
-  - "Fase 4: Execução da Avaliação":
+  - "Execução da Avaliação":
       - "M1": fase4/M1.md
       - "M2: Verificação dos elementos com tamanho adequado ao toque, foco visível e leitura correta.": fase4/M2.md
       - "M3: Verificação de textos alternativos ou descrições acessíveis (labels) em ícones, imagens e botões.": fase4/M3.md

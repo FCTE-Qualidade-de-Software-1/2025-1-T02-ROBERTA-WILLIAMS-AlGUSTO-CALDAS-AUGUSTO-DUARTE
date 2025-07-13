@@ -1,4 +1,4 @@
-# Fase 2: Especificação da Avaliação
+# Especificação da Avaliação
 
 # Aplicação da Metodologia GQM
 
@@ -8,14 +8,14 @@ Foram definidos os objetivos de medição para usabilidade, com ênfase em acess
 
 As questões levantadas foram refinadas e vinculadas a métricas específicas, que passaram por revisão quanto à consistência e completude. Por fim, foi elaborado o plano GQM, consolidando todos os elementos definidos.
 
-<center><p>Figura 1 - Definição de procedimentos GQM</p></center>
+<center><p>Figura 1 - Definição de Procedimentos GQM</p></center>
 
 ![Definição de procedimentos GQM](../assets/img/GQM_diagrama.png)
 
 
 ## Plano de Medição
 
-### Objetivo de Medição 1 – Verificar a Usabilidade com Foco em Acessibilidade no AgroMart
+### Objetivo de Medição – Verificar a Usabilidade com Foco em Acessibilidade no AgroMart
 
 | Elemento              | Descrição                                                                 |
 |------------------------|---------------------------------------------------------------------------|
@@ -41,12 +41,12 @@ As questões levantadas foram refinadas e vinculadas a métricas específicas, q
 
 ---
 
-| Métrica (M)                            | Descrição                                                                                                       | 
-|----------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **M1: Acessibilidade Visual**          | Verifica a proporção de telas e mensagens que seguem boas práticas visuais: contraste adequado, legibilidade e suporte a daltonismo. |    
-| **M2: Navegabilidade Acessível**          | Verifica os elementos com tamanho adequado ao toque, foco visível e leitura correta. |        |
-| **M3: Cobertura de Textos Alternativos** | Verifica a presença de textos alternativos ou descrições acessíveis (labels) em ícones, imagens e botões.       |        
-| **M4: Redundância Multissensorial de Feedbacks** | Avalia se mensagens visuais importantes (como erros/sucesso) também aparecem como texto ou som acessível.       |         
+| Métrica (M)                                      | Descrição                                                                                                                            | 
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| **M1: Acessibilidade Visual**                    | Verifica a proporção de telas e mensagens que seguem boas práticas visuais: contraste adequado, legibilidade e suporte a daltonismo. |    
+| **M2: Navegabilidade Acessível**                 | Verifica os elementos com tamanho adequado ao toque, foco visível e leitura correta.                                                 |
+| **M3: Cobertura de Textos Alternativos**         | Verifica a presença de textos alternativos ou descrições acessíveis (labels) em ícones, imagens e botões.                            |        
+| **M4: Redundância Multissensorial de Feedbacks** | Avalia se mensagens visuais importantes (como erros/sucesso) também aparecem como texto ou som acessível.                            |         
 
 ---
 
@@ -56,12 +56,12 @@ Para garantir uma análise consistente dos resultados obtidos nas medições, fo
 
 A seguir, apresenta-se a escala definida para interpretar os valores mensurados:
 
-| **Nível de Desempenho** | **Faixa de Pontuação** | **Significado** |
-|--------------------------|-------------------------|------------------|
-| **Excelente**            | 10                      | Supera plenamente os requisitos de qualidade estabelecidos. |
-| **Bom**                  | 7 – 9                   | Atende bem aos requisitos, com espaço limitado para ajustes. |
-| **Regular**              | 4 – 6                   | Apresenta deficiências visíveis, mas não compromete o uso essencial da aplicação. |
-| **Insatisfatório**       | 1 – 3                   | Indica problemas sérios que impactam negativamente a experiência do usuário. |
+| **Nível de Desempenho** | **Faixa de Pontuação** | **Significado**                                                                   |
+|-------------------------|------------------------|-----------------------------------------------------------------------------------|
+| **Excelente**           | 10                     | Supera plenamente os requisitos de qualidade estabelecidos.                       |
+| **Bom**                 | 7 – 9                  | Atende bem aos requisitos, com espaço limitado para ajustes.                      |
+| **Regular**             | 4 – 6                  | Apresenta deficiências visíveis, mas não compromete o uso essencial da aplicação. |
+| **Insatisfatório**      | 1 – 3                  | Indica problemas sérios que impactam negativamente a experiência do usuário.      |
 
 ---
 
@@ -71,28 +71,17 @@ Com base nas pontuações das métricas, foram definidos critérios para avaliar
 
 ### Interpretação para Usabilidade
 
-| **Classificação Final**      | **Critério de Aplicação** |
-|------------------------------|----------------------------|
-| **Aceitável**                | 70% ou mais das métricas classificadas como "Bom" ou "Excelente". |
-| **Parcialmente aceitável**   | Entre 40% e 69% das métricas com classificação igual ou superior a "Regular". |
-| **Inaceitável**              | Mais de 30% das métricas com pontuação "Insatisfatória". |
+| **Classificação Final**    | **Critério de Aplicação**                                                     |
+|----------------------------|-------------------------------------------------------------------------------|
+| **Aceitável**              | 70% ou mais das métricas classificadas como "Bom" ou "Excelente".             |
+| **Parcialmente aceitável** | Entre 40% e 69% das métricas com classificação igual ou superior a "Regular". |
+| **Inaceitável**            | Mais de 30% das métricas com pontuação "Insatisfatória".                      |
 
-
-----
-
-
-# Tabela de Contribuição
-
-| Matrícula | Nome              | % de Contribuição |
-|-----------|-------------------|-------------------|
-| 202045965 | Augusto Duarte    |  50%              |
-| 202017521 | Algusto Rodrigues |                   |
-
-
-
+---
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição               | Autor                    | Revisor                |
-|--------|------------|--------------------------|---------------------------|------------------------|
-| 1.0    | 11/07/2025 | Desenvolvimento da fase 2 | Augusto Duarte           |                        |
+| Versão | Data       | Descrição                                              | Autor             | Revisor           |
+|--------|------------|--------------------------------------------------------|-------------------|-------------------|
+| 1.0    | 11/07/2025 | Desenvolvimento da Especificação da Avaliação          | Augusto Duarte    | Algusto Rodrigues |
+| 1.1    | 11/07/2025 | Inserção do Diagrama de Definição de Procedimentos GQM | Algusto Rodrigues | Augusto Duarte    |

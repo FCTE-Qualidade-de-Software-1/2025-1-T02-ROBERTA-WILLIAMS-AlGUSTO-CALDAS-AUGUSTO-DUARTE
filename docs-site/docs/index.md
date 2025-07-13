@@ -1,4 +1,5 @@
-# Roberta Williams — Qualidades de Software (2025.1)
+# Qualidades de Software (2025.1)
+# Roberta Williams 
 
 ## Sobre o Projeto
 

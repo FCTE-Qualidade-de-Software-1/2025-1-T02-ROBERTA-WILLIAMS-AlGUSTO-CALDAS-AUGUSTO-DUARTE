@@ -1,4 +1,4 @@
-# Fase 3: Plano de Avaliação
+# Plano de Avaliação
 
 ## Introdução
 
