@@ -4,7 +4,7 @@ site_name: Grupo Roberta Williams - Turma 2 (2025.1)
 site_description: Documentação do projeto da dupla do grupo Roberta Williams de Qualidade de Software (2025.1), Turma 2
 
 nav:
-  - Início: index.md
+  - Início: inicio.md
   - "Propósito de Avalição": fase1/propositoDeAvaliacao.md
   - "Especificação da Avaliação":
       - "Abordagem GQM": fase2/gqm.md
@@ -14,10 +14,12 @@ nav:
       - "Plano de Avaliação": fase3/plano.md
       - "Cronograma": fase3/cronograma.md
   - "Execução da Avaliação":
-      - "Acessibilidade Visual": fase4/M1.md
-      - "Navegabilidade Acessível": fase4/M2.md
-      - "Cobertura de Textos Alternativos": fase4/M3.md
-      - "Redundância Multissensorial de Feedbacks": fase4/M4.md
+      - "Medidas Obtidas - Acessibilidade":
+          - "Acessibilidade Visual": fase4/M1.md
+          - "Navegabilidade Acessível": fase4/M2.md
+          - "Cobertura de Textos Alternativos": fase4/M3.md
+          - "Redundância Multissensorial de Feedbacks": fase4/M4.md
+      - "Proposta de Melhoria": fase4/propostaDeMelhoria.md
   - "Tabela de Contribuição": tabelaDeContribuicao.md
 
 theme:
@@ -26,10 +28,11 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.expand_tree # Adiciona a funcionalidade de expandir/recolher submenus
   palette:
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
       primary: orange
       accent: deep orange
