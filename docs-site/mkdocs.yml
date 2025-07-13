@@ -13,6 +13,11 @@ nav:
       - "Q-Rapids": fase3/qrapids.md
       - "Plano de Avaliação": fase3/plano.md
       - "Cronograma": fase3/cronograma.md
+  - "Fase 4: Execução da Avaliação":
+      - "M1": fase4/M1.md
+      - "M2: Verificação dos elementos com tamanho adequado ao toque, foco visível e leitura correta.": fase4/M2.md
+      - "M3: Verificação de textos alternativos ou descrições acessíveis (labels) em ícones, imagens e botões.": fase4/M3.md
+      - "M4": fase4/M4.md
   - "Tabela de Contribuição": tabelaDeContribuicao.md
 
 theme:
