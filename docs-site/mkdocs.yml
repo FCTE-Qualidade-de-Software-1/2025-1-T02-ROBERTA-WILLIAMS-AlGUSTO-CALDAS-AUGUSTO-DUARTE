@@ -29,7 +29,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand_tree # Adiciona a funcionalidade de expandir/recolher submenus
+    - navigation.expand_tree 
   palette:
     - scheme: default
       toggle:
