@@ -21,6 +21,7 @@ nav:
           - "Redundância Multissensorial de Feedbacks": fase4/M4.md
       - "Proposta de Melhoria": fase4/propostaDeMelhoria.md
   - "Tabela de Contribuição": tabelaDeContribuicao.md
+  - "Apresentação": apresentacao/avaliacaoDeProduto.md
 
 theme:
   name: material
