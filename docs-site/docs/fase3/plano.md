@@ -1,5 +1,3 @@
-# Plano de Avaliação
-
 ## Introdução
 
 Esta fase tem como objetivo descrever o plano detalhado de avaliação de qualidade do sistema **AgroMart**, com foco específico em **acessibilidade**. O plano define os métodos, ferramentas, recursos e critérios de sucesso que guiarão a execução da avaliação, a fim de garantir um processo sistemático, reprodutível e alinhado à **norma ISO/IEC 25010**.

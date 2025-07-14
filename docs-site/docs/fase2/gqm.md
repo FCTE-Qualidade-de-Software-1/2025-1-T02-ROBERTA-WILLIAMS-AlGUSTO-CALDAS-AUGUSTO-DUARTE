@@ -1,6 +1,6 @@
 # Especificação da Avaliação
 
-# Aplicação da Metodologia GQM
+## Aplicação da Metodologia GQM
 
 A dupla seguiu as fases da metodologia **GQM (Goal-Question-Metric)** para estruturar a avaliação da plataforma AgroMart. 
 

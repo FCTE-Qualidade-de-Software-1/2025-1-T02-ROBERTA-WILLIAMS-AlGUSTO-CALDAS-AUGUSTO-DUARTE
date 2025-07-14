@@ -64,6 +64,6 @@ O **Burndown Chart** permite acompanhar a redução do número de tarefas ao lon
 
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor | Revisor |
-| --- | --- | --- | --- | --- |
-| `1.1` | 13/07/2025 | Gráficos ajustados conforme ciclo real do projeto | Algusto Rodrigues | Augusto Duarte |
+| Versão | Data       | Descrição                          | Autor             | Revisor        |
+|--------|------------|------------------------------------|-------------------|----------------|
+| `1.0`  | 13/07/2025 | Explicação do Progresso do Porjeto | Algusto Rodrigues | Augusto Duarte |
