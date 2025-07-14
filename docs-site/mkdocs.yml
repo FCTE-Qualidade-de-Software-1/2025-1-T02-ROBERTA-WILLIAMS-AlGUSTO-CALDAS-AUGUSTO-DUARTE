@@ -4,7 +4,7 @@ site_name: Grupo Roberta Williams - Turma 2 (2025.1)
 site_description: Documentação do projeto da dupla do grupo Roberta Williams de Qualidade de Software (2025.1), Turma 2
 
 nav:
-  - Início: inicio.md
+  - Início: index.md
   - "Propósito de Avalição": fase1/propositoDeAvaliacao.md
   - "Especificação da Avaliação":
       - "Abordagem GQM": fase2/gqm.md
