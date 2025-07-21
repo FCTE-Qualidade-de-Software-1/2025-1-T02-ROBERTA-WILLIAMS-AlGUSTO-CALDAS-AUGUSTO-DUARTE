@@ -12,6 +12,12 @@ Sua abordagem centrada no usuário, sensível ao design e orientada à experiên
 
 ---
 
+## Apresentação em Vídeo
+
+[![Assista à apresentação](docs-site/docs/apresentacao/thumbnail.png)](https://youtu.be/3K6fmpx0UmU?si=Lu0-GKGDzeTj-aAq)
+
+---
+
 ## Equipe
 
 | [![Augcamp](https://github.com/Augcamp.png?size=100)](https://github.com/Augcamp) | [![Algusto-RC](https://github.com/Algusto-RC.png?size=100)](https://github.com/Algusto-RC) |
@@ -23,7 +29,7 @@ Sua abordagem centrada no usuário, sensível ao design e orientada à experiên
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição         | Autor             | Revisor                |
-|--------|------------|-------------------|-------------------|------------------------|
-| 1.0    | 11/07/2025 | Criação do README | Algusto Rodrigues | Augusto Duarte         |
----
+| Versão | Data       | Descrição         | Autor             | Revisor        |
+|--------|------------|-------------------|-------------------|----------------|
+| 1.0    | 11/07/2025 | Criação do README | Algusto Rodrigues | Augusto Duarte |
+| 2.0    | 21/07/2025 | Adição do vídeo   | Algusto Rodrigues | Augusto Duarte |

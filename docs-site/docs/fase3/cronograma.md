@@ -26,4 +26,4 @@ Todas as atividades ocorrerão entre os dias **12/07/2025 e 13/07/2025**, com di
 
 | Versão | Data       | Descrição               | Autor             | Revisor        |
 |--------|------------|-------------------------|-------------------|----------------|
-| 1.0    | 12/07/2025 | Definição do Cronograma | Algusto Rodrigues | Augusto Duarte |
+| ´1.0´    | 12/07/2025 | Definição do Cronograma | Algusto Rodrigues | Augusto Duarte |
